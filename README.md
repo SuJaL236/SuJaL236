@@ -13,4 +13,4 @@
  <img align ="left" alt="SuJaL236 Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
  </a>
  <br/> <br/> 
-https://discord.c99.nl/widget/theme-3/772840098441855016.png
+[Discord](https://discord.c99.nl/widget/theme-3/772840098441855016.png)
