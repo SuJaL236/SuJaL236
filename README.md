@@ -16,3 +16,5 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/772840098441855016.png)
 
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=SuJaL236)](https://github.com/SuJaL236) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuJaL236&layout=compact)](https://github.com/SuJaL236) I prefer writing snippets of code than a full-blown project ~~because I am lazy~~.
+
