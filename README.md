@@ -6,8 +6,8 @@
 - - ⚡ Fun fact: I am a noob
 
 <br/>
-<a href="https://discord.com/users/772840098441855016">
- <img align="left" alt="𝗦𝗨𝗝𝗔L⃠#9999 Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.com/users/1031761574177816666">
+ <img align="left" alt="MaDdy,#6969 Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
  </a>
  <a href="https://github.com/SuJaL236/">
  <img align ="left" alt="SuJaL236 Github" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
